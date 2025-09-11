@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Github\\E-Commerce\\E-Commerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20250911230926_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce\\Migrations\\20250911230926_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\payout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\payout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|e:\\github\\e-commerce\\e-commerce\\e-commerce\\models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6836D578-5FAB-4070-906C-D922D81E6CA5}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250911230926_InitialDB.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20250911230926_InitialDB.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Migrations\\20250911230926_InitialDB.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20250911230926_InitialDB.cs",
+              "RelativeToolTip": "E-Commerce\\Migrations\\20250911230926_InitialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:09:26.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:05:21.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Context\\DataContext.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Context\\DataContext.cs",
+              "RelativeToolTip": "E-Commerce\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:02:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "E-Commerce\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T23:02:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Review.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Review.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Review.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:28:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Promotion.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Promotion.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Promotion.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Promotion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:24:52.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payout.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Payout.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Payout.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Payout.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Payout.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:23:13.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:10:50.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Refund.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Refund.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Refund.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Refund.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Refund.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:27:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Payment.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Payment.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:20:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Category.cs",
+              "ToolTip": "E:\\Github\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Category.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:55:52.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

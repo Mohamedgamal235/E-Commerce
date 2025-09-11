@@ -1,13 +1,23 @@
+using E_Commerce.Data;
+using E_Commerce.DataSeeding;
+using E_Commerce.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 namespace E_Commerce
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<DataContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddIdentity<User, IdentityRole<Guid>>().AddEntityFrameworkStores<DataContext>();
 
             var app = builder.Build();
 
@@ -29,6 +39,13 @@ namespace E_Commerce
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+                var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
+                await DataSeeder.SeedRolesAndAdminAsync(roleManager, userManager);
+            }
 
             app.Run();
         }
