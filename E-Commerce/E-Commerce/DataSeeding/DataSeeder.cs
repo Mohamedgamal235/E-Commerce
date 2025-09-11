@@ -41,5 +41,10 @@ namespace E_Commerce.DataSeeding
                 }
             }
         }
+
+        internal static async Task SeedRolesAndAdminAsync(RoleManager<IdentityRole<Guid>> roleManager, UserManager<User> userManager)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
